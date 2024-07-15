@@ -1,0 +1,13 @@
+body{
+    background-image: url("cool-background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Dancing Script', cursive;
+}
+
+.buttons{
+    width: 300px;
+    height: 30px;
+    background: linear-gradient(-215deg , lightblue, rgb(76, 120, 135),  blue);
+    color: black;
+}
